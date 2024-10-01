@@ -1,2 +1,2 @@
-# Resume Ganerator website
+# Resume Ganerator website file
 Resume Ganerator website
